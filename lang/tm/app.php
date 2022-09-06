@@ -1,0 +1,73 @@
+<?php
+
+return [
+    'app-name' => 'Gujurly Store',
+    'app-description' => 'Bu ýerde elýeterli bahadan meşhur markalaryň kompýuterlerini tapyp bilersiňiz',
+
+    'bestsellers' => 'Iň köp satylanlar',
+    'bestseller' => 'Iň köp satylanlar',
+    'discounts' => 'Arzanladyşlar',
+    'discount' => 'Arzanladyş',
+    'news' => 'Täzeler',
+    'new' => 'Täze',
+    'populars' => 'Meşhurlar',
+    'popular' => 'Meşhur',
+    'recommends' => 'Maslahat berilýänler',
+    'recommend' => 'Maslahat berilýär',
+    'credits' => 'Garaşaryna berilýänler',
+    'credit' => 'Garaşaryna berilýär',
+
+    'search' => 'Gözleg',
+    'total' => 'Jemi',
+
+    'categories' => 'Kategoriýalar',
+    'category' => 'Kategoriýa',
+    'brands' => 'Brendler',
+    'brand' => 'Brend',
+    'computers' => 'Kompýuterlar',
+    'computer' => 'Kompýuter',
+    'options' => 'Aýratynlyklar',
+    'option' => 'Aýratynlyk',
+    'values' => 'Bahalar',
+    'value' => 'Baha',
+    'users' => 'Ulanyjylar',
+    'user' => 'Ulanyjy',
+
+    'about-us' => 'Biz barada',
+    'contact' => 'Habarlaşmak',
+
+    'login' => 'Hasabyma gir',
+    'logout' => 'Hasabymdan çyk',
+    'register' => 'Täze hasap aç',
+    'name' => 'Ady',
+    'username' => 'Ulanyjy ady',
+    'password' => 'Açarsözi',
+    'password-confirmation' => 'Açarsözi tassyklamak',
+
+    'error' => 'Eýwaý! Birzatlara ýalňyş boldy.',
+
+    'create' => 'Goşmak',
+    'store' => 'Ýatda saklamak',
+    'store-response' => '<b>:name</b> goşuldy!',
+    'edit' => 'Üýtgetmek',
+    'update' => 'Düzetmek',
+    'update-response' => '<b>:name</b> üýtgedildi!',
+    'delete' => 'Pozmak',
+    'cancel' => 'Bes etmek',
+    'delete-question' => 'Siz çyndanam <b>:name</b> pozasyňyz gelýärmi?',
+    'delete-response' => '<b>:name</b> pozuldy!',
+
+    'model-number' => 'Model number',
+    'serial-number' => 'Serial number',
+    'description' => 'Düşündiriş',
+    'price' => 'Baha',
+    'stock' => 'Stok',
+    'discount-percent' => 'Arzanladyş göterimi',
+    'discount-datetime-start' => 'Arzanladyş başlaýan wagty',
+    'discount-datetime-end' => 'Arzanladyş gutarýan wagty',
+    'image' => 'Surat',
+    'in-stock' => 'Stokda bar',
+    'out-of-stock' => 'Stokda ýok',
+    'not-found' => '<b>:name</b> tapylmady!',
+    'busket' => 'Sebet'
+];

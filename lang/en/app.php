@@ -1,0 +1,73 @@
+<?php
+
+return [
+    'app-name' => 'Gujurly Store',
+    'app-description' => 'Here you can find computers of famous brands at an affordable price',
+
+    'bestsellers' => 'Bestsellers',
+    'bestseller' => 'Bestseller',
+    'discounts' => 'Discounts',
+    'discount' => 'Discount',
+    'news' => 'News',
+    'new' => 'New',
+    'populars' => 'Populars',
+    'popular' => 'Popular',
+    'recommends' => 'Recommends',
+    'recommend' => 'Recommend',
+    'credits' => 'Credits',
+    'credit' => 'Credit',
+
+    'search' => 'Search',
+    'total' => 'Total',
+
+    'categories' => 'Categories',
+    'category' => 'Category',
+    'brands' => 'Brands',
+    'brand' => 'Brand',
+    'computers' => 'Computers',
+    'computer' => 'Computer',
+    'options' => 'Options',
+    'option' => 'Option',
+    'values' => 'Values',
+    'value' => 'Value',
+    'users' => 'Users',
+    'user' => 'User',
+
+    'about-us' => 'About us',
+    'contact' => 'Contact',
+
+    'login' => 'Login',
+    'logout' => 'Logout',
+    'register' => 'Register',
+    'name' => 'Name',
+    'username' => 'Username',
+    'password' => 'Password',
+    'password-confirmation' => 'Password confirmation',
+
+    'error' => 'Whoops! Something went wrong.',
+
+    'create' => 'Add',
+    'store' => 'Save',
+    'store-response' => '<b>:name</b> is added!',
+    'edit' => 'Edit',
+    'update' => 'Update',
+    'update-response' => '<b>:name</b> is updated!',
+    'delete' => 'Delete',
+    'cancel' => 'Cancel',
+    'delete-question' => 'Are you sure you want to delete <b>:name</b>?',
+    'delete-response' => '<b>:name</b> is deleted!',
+
+    'model-number' => 'Model number',
+    'serial-number' => 'Serial number',
+    'description' => 'Description',
+    'price' => 'Price',
+    'stock' => 'Stock',
+    'discount-percent' => 'Discount percent',
+    'discount-datetime-start' => 'Discount datetime start',
+    'discount-datetime-end' => 'Discount datetime end',
+    'image' => 'Image',
+    'in-stock' => 'In stock',
+    'out-of-stock' => 'Out of stock',
+    'not-found' => '<b>:name</b> not found!',
+    'busket' => 'Busket'
+];
